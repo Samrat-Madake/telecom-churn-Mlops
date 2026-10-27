@@ -1,0 +1,7 @@
+### Exploratory Data Analysis (EDA) — Observations
+
+The Telecom Customer Churn dataset contains 7,043 customer records, of which 1,869 (26.54%) represent customers who churned and 5,174 (73.46%) represent customers who did not churn. This indicates class imbalance in the target variable.
+
+The contract analysis shows that month-to-month customers account for substantially more churn cases than customers with one-year or two-year contracts. The tenure analysis indicates that churned customers generally have shorter customer tenure than customers who remain with the service.
+
+These observations suggest that contract type and tenure may be useful features for predicting customer churn. The findings will guide the selection of evaluation metrics and the development of the machine learning model.
